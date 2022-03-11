@@ -1,1 +1,1 @@
-This is the project to crete e-portfolio
+This is the project to create e-portfolio.
